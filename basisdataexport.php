@@ -44,8 +44,8 @@ require_once(dirname(__FILE__) . '/BasisExport.class.php');
 
 // Specify your Basis username, password, and export format. Leaving blank 
 // will require inputting these values manually each time the script is run.
-define('BASIS_USERNAME', '');
-define('BASIS_PASSWORD', '');
+define('BASIS_USERNAME', ‘’);
+define('BASIS_PASSWORD', ‘’);
 define('BASIS_EXPORT_FORMAT', 'json');
 
 // Enable/disable debug mode
